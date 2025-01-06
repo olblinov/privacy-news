@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Privacy News Archive
 ---
 
 This is a blank Quartz installation.
