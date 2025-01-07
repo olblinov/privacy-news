@@ -3,7 +3,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { classNames } from "../util/lang"
 
 const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
-  const tags = fileData.frontmatter?.tags
+  const tags = fileData.frontmatter?.tags 
   const baseDir = pathToRoot(fileData.slug!)
   if (tags && tags.length > 0) {
     return (

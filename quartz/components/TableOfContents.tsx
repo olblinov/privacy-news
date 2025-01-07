@@ -54,7 +54,7 @@ const TableOfContents: QuartzComponent = ({
           {fileData.toc.map((tocEntry) => (
             <li key={tocEntry.slug} class={`depth-${tocEntry.depth}`}>
               <a href={`#${tocEntry.slug}`} data-for={tocEntry.slug}>
-                {tocEntry.text}
+              {tocEntry.depth === 1 && <span>• </span>}{tocEntry.text}
               </a>
             </li>
           ))}

@@ -2,12 +2,10 @@
 title: ANPD Publishes Guidance on the Role of the Data Protection Officer in Brazil
 tags:
   - brazil
+links:
+  - https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/documentos-de-publicacoes/guia_da_atuacao_do_encarregado_anpd.pdf
+  - https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-lanca-guia-sobre-atuacao-do-encarregado
 ---
-****
-Links:
-- https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/documentos-de-publicacoes/guia_da_atuacao_do_encarregado_anpd.pdf
-- https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-lanca-guia-sobre-atuacao-do-encarregado
-****
 # Summary
 
 The Autoridade Nacional de Proteção de Dados (ANPD), Brazil's National Data Protection Authority, has released a guidance document to clarify the role of the data protection officer (DPO), known as "encarregado" in Portuguese, and to aid organizations in complying with the Lei Geral de Proteção de Dados (LGPD), Brazil's General Data Protection Law. The guide details the responsibilities, required qualifications, and the process for appointing a DPO, as well as providing insights into good practices for personal data handling. It emphasizes the DPO's function as a communication channel between data subjects, data controllers, and the ANPD. The guide also includes model documents for the formal appointment of a DPO.

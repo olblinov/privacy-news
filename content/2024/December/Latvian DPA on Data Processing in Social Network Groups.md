@@ -2,11 +2,9 @@
 title: Latvian DPA on Data Processing in Social Network Groups
 tags:
   - methodology
+links:
+  - https://www.dvi.gov.lv/lv/jaunums/dviskaidro-datu-apstrade-socialo-tiklu-grupas-kad-piemerojama-datu-regula
 ---
-*****
-Links:
-- https://www.dvi.gov.lv/lv/jaunums/dviskaidro-datu-apstrade-socialo-tiklu-grupas-kad-piemerojama-datu-regula
-***** 
 # Summary
 
 This document from the Data State Inspectorate of Latvia clarifies when the General Data Protection Regulation (GDPR) applies to data processing in social media groups. The applicability hinges on factors such as the **accessibility of the group, its connection to commercial or professional activities, and the identifiability of individuals within the data processed**. Generally, if a group is public or linked to professional activities, the GDPR is likely to apply. However, there are exceptions, such as for groups used for personal purposes or in cases of freedom of expression or journalism.

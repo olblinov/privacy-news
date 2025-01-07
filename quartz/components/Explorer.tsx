@@ -7,6 +7,7 @@ import { ExplorerNode, FileNode, Options } from "./ExplorerNode"
 import { QuartzPluginData } from "../plugins/vfile"
 import { classNames } from "../util/lang"
 import { i18n } from "../i18n"
+import { FullSlug, getAllSegmentPrefixes, simplifySlug } from "../util/path"
 
 // Options interface defined in `ExplorerNode` to avoid circular dependency
 const defaultOptions = {
@@ -84,8 +85,15 @@ export default ((userOpts?: Partial<Options>) => {
       constructFileTree(allFiles)
     }
 
+    const tags = [
+      ...new Set(
+        allFiles.flatMap((data) => data.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes),
+      ),
+    ].sort((a, b) => a.localeCompare(b))
+
     return (
       <div class={classNames(displayClass, "explorer")}>
+        <div>{tags.join()}</div>
         <button
           type="button"
           id="explorer"

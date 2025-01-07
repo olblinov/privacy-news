@@ -49,6 +49,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
       for (const tag of tags) {
         tagItemMap.set(tag, allPagesWithTag(tag))
       }
+      console.log(tags)
       return (
         <div class="popover-hint">
           <article class={classes}>
