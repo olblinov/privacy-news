@@ -7,7 +7,7 @@ tags:
   - change
   - consent
 links:
-  - https://www.edpb.europa.eu/news/news/2024/edpb-consent-or-pay-models-should-offer-real-choice_en,
+  - https://www.edpb.europa.eu/news/news/2024/edpb-consent-or-pay-models-should-offer-real-choice_en
   - https://www.edpb.europa.eu/system/files/2024-04/edpb_opinion_202408_consentorpay_en.pdf
 ---
 EDPB considers that, in most cases, it will not be possible for large online platforms to comply with the requirements for valid consent, if they confront users only with a choice between consenting to processing of personal data for behavioural advertising purposes and paying a fee. 

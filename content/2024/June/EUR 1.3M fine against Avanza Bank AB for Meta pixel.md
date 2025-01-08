@@ -5,7 +5,7 @@ tags:
   - fine
   - adtech
 links:
-  - https://www.imy.se/nyheter/sanktionsavgift-mot-avanza-for-overforing-av-personuppgifter-till-meta/,
+  - https://www.imy.se/nyheter/sanktionsavgift-mot-avanza-for-overforing-av-personuppgifter-till-meta/
   - https://www.imy.se/globalassets/dokument/beslut/2024/beslut-tillsyn-avanza.pdf
 ---
 # Summary

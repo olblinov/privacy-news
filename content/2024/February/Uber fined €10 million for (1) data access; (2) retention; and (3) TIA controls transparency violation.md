@@ -5,8 +5,8 @@ tags:
   - retention
   - dark_pattern
 links:
-  - https://www.autoriteitpersoonsgegevens.nl/en/current/uber-fined-eu10-million-for-infringement-of-privacy-regulations,
-  - https://www.autoriteitpersoonsgegevens.nl/uploads/2024-01/Boetebesluit%20Uber%20.pdf,
+  - https://www.autoriteitpersoonsgegevens.nl/en/current/uber-fined-eu10-million-for-infringement-of-privacy-regulations
+  - https://www.autoriteitpersoonsgegevens.nl/uploads/2024-01/Boetebesluit%20Uber%20.pdf
 ---
   - Uber has an app for drivers. The French association of drivers raised a concern with CNIL about principle of transparency & right to data access in the app
   - Issues:

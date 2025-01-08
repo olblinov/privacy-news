@@ -6,7 +6,7 @@ tags:
   - harm
   - change
 links:
-  - https://curia.europa.eu/juris/document/document.jsf?text=&docid=287303&pageIndex=0&doclang=EN&mode=req&dir=&occ=first&part=1&cid=6578598,
+  - https://curia.europa.eu/juris/document/document.jsf?text=&docid=287303&pageIndex=0&doclang=EN&mode=req&dir=&occ=first&part=1&cid=6578598
 ---
 The cases are quite similar to a case reported in [[CJEU opines on compensation of damages to data subjects]] (April'24) and [December'23](../../2023/december/311223.md). 
   - Joined Cases C‑182/22 and C‑189/22

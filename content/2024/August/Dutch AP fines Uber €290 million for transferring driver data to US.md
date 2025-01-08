@@ -5,8 +5,8 @@ tags:
   - fine
   - change
 links:
-  - https://autoriteitpersoonsgegevens.nl/system/files?file=2024-08/Besluit%20boete%20Uber%20doorgifte%20naar%20VS.pdf,
-  - https://autoriteitpersoonsgegevens.nl/actueel/ap-legt-uber-boete-op-van-290-miljoen-euro-om-doorgifte-data-chauffeurs-naar-vs,
+  - https://autoriteitpersoonsgegevens.nl/system/files?file=2024-08/Besluit%20boete%20Uber%20doorgifte%20naar%20VS.pdf
+  - https://autoriteitpersoonsgegevens.nl/actueel/ap-legt-uber-boete-op-van-290-miljoen-euro-om-doorgifte-data-chauffeurs-naar-vs
 ---
 
 Related article: [[Uber fined €10 million for (1) data access; (2) retention; and (3) TIA controls transparency violation]]
