@@ -2,7 +2,6 @@
 title: UK ICO's Cost-Benefit Analysis of Privacy Enhancing Technologies
 tags:
   - privacy_engineering
-  - section
   - anonymization
 links:
   - https://www.gov.uk/government/publications/privacy-enhancing-technologies-cost-benefit-awareness-tool/cost-benefit-awareness-tool#section-three

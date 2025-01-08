@@ -3,7 +3,6 @@ title: EUR 80k fine for keeping emails after relationship termination
 tags:
   - change
   - fine
-  - joom
   - erasure
   - employment
   - retention
