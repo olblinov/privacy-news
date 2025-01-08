@@ -85,15 +85,8 @@ export default ((userOpts?: Partial<Options>) => {
       constructFileTree(allFiles)
     }
 
-    const tags = [
-      ...new Set(
-        allFiles.flatMap((data) => data.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes),
-      ),
-    ].sort((a, b) => a.localeCompare(b))
-
     return (
       <div class={classNames(displayClass, "explorer")}>
-        <div>{tags.join()}</div>
         <button
           type="button"
           id="explorer"

@@ -15,6 +15,7 @@ import { Content } from "../../components"
 import chalk from "chalk"
 import { write } from "./helpers"
 import DepGraph from "../../depgraph"
+import { FullSlug, getAllSegmentPrefixes, simplifySlug } from "../../util/path"
 
 // get all the dependencies for the markdown file
 // eg. images, scripts, stylesheets, transclusions
@@ -99,11 +100,20 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
       const fps: FilePath[] = []
       const allFiles = content.map((c) => c[1].data)
 
+      const allTags = [
+        ...new Set(
+          allFiles.flatMap((data) => data.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes),
+        ),
+      ].sort((a, b) => a.localeCompare(b))
+
       let containsIndex = false
       for (const [tree, file] of content) {
         const slug = file.data.slug!
         if (slug === "index") {
           containsIndex = true
+          if (file.data.frontmatter){
+            file.data.frontmatter.tags = allTags
+          }
         }
 
         const externalResources = pageResources(pathToRoot(slug), file.data, resources)

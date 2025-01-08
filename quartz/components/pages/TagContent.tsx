@@ -31,7 +31,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
     const allPagesWithTag = (tag: string) =>
       allFiles.filter((file) =>
         (file.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes).includes(tag),
-      )
+      ).filter((file) => file.slug !== "index");
 
     const content =
       (tree as Root).children.length === 0
@@ -49,7 +49,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
       for (const tag of tags) {
         tagItemMap.set(tag, allPagesWithTag(tag))
       }
-      console.log(tags)
+
       return (
         <div class="popover-hint">
           <article class={classes}>

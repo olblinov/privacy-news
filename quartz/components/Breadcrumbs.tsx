@@ -36,7 +36,7 @@ const defaultOptions: BreadcrumbOptions = {
   spacerSymbol: "❯",
   rootName: "Home",
   resolveFrontmatterTitle: true,
-  hideOnRoot: true,
+  hideOnRoot: false,
   showCurrentPage: true,
 }
 
@@ -65,7 +65,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
     }
 
     // Format entry for root element
-    const firstEntry = formatCrumb(options.rootName, fileData.slug!, "/" as SimpleSlug)
+    const firstEntry = formatCrumb(options.rootName, fileData.slug!, "./" as SimpleSlug)
     const crumbs: CrumbData[] = [firstEntry]
 
     if (!folderIndex && options.resolveFrontmatterTitle) {

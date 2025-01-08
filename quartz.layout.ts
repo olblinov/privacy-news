@@ -21,14 +21,49 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
-    Component.LinkList()
+    Component.LinkList(),
+    //Component.TagCloud()
   ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer(
+      {
+        sortFn: (a, b) => {
+          const months = [
+            "January", "February", "March", "April", "May", "June",
+            "July", "August", "September", "October", "November", "December"
+          ];
+          
+          const isYear = (str:string) => /^\d{4}$/.test(str); // Check if it's a 4-digit year
+          const isMonth = (str:string) => months.includes(str);
+      
+          if ((!a.file && !b.file) || (a.file && b.file)) {
+            if (isYear(a.displayName) && isYear(b.displayName)) {
+              return parseInt(b.displayName) - parseInt(a.displayName); // Descending order for years
+            }
+            
+            if (isMonth(a.displayName) && isMonth(b.displayName)) {
+              return months.indexOf(b.displayName) - months.indexOf(a.displayName); // December to January
+            }
+      
+            // Default alphabetical sorting
+            return a.displayName.localeCompare(b.displayName, undefined, {
+              numeric: true,
+              sensitivity: "base",
+            });
+          }
+      
+          if (a.file && !b.file) {
+            return 1;
+          } else {
+            return -1;
+          }
+        },
+      }
+    )),
   ],
   right: [
     Component.Graph(),

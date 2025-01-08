@@ -52,10 +52,11 @@ export const TagPage: QuartzEmitterPlugin<Partial<TagPageOptions>> = (userOpts) 
     },
     async getDependencyGraph(ctx, content, _resources) {
       const graph = new DepGraph<FilePath>()
-
+      console.log(content)
       for (const [_tree, file] of content) {
         const sourcePath = file.data.filePath!
-        const tags = (file.data.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes)
+        //const tags = (file.data.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes)
+        const tags =[]
         // if the file has at least one tag, it is used in the tag index page
         if (tags.length > 0) {
           tags.push("index")
