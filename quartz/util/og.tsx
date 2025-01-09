@@ -146,6 +146,7 @@ export const defaultImage: SocialImageOptions["imageStructure"] = (
   // How many characters are allowed before switching to smaller font
   const fontBreakPoint = 22
   const useSmallerFont = title.length > fontBreakPoint
+  
 
   // Setup to access image
   const iconPath = `https://${cfg.baseUrl}/static/icon.png`
@@ -158,7 +159,7 @@ export const defaultImage: SocialImageOptions["imageStructure"] = (
         alignItems: "center",
         height: "100%",
         width: "100%",
-        backgroundColor: cfg.theme.colors[colorScheme].light,
+        backgroundColor: cfg.theme.colors[colorScheme].dark,
         gap: "2rem",
         paddingTop: "1.5rem",
         paddingBottom: "1.5rem",

@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     baseUrl: "olblinov.github.io/privacy-news",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
-    generateSocialImages: true,
+    generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,

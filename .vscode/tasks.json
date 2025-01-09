@@ -17,7 +17,7 @@
         {
             "label": "Push to GitHub Pages",
             "type": "shell",
-            "command": "npx quartz sync && open 'https://github.com/olblinov/privacy-news/actions'",
+            "command": "npx quartz sync && open 'https://github.com/olblinov/privacy-news/actions/workflows/deploy.yml'",
             "options": {
                 "env": {
                     "PATH": "/Users/ol.blinov/.nvm/versions/node/v23.5.0/bin:${env:PATH}"
