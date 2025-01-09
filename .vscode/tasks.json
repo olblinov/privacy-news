@@ -7,18 +7,35 @@
             "label": "Serve App",
             "type": "shell",
             "command": "npx quartz build --serve",
+            "options": {
+                "env": {
+                    "PATH": "/Users/ol.blinov/.nvm/versions/node/v23.5.0/bin:${env:PATH}"
+                }
+            },
             "problemMatcher": []
         },
         {
             "label": "Push to GitHub Pages",
             "type": "shell",
-            "command": "npx quartz sync"
+            "command": "npx quartz sync",
+            "options": {
+                "env": {
+                    "PATH": "/Users/ol.blinov/.nvm/versions/node/v23.5.0/bin:${env:PATH}"
+                }
+            }
         },
         {
             "label": "Test",
             "type": "shell",
             "command": "node --version",
-            "problemMatcher": []
+            "options": {
+                "env": {
+                    "PATH": "/Users/ol.blinov/.nvm/versions/node/v23.5.0/bin:${env:PATH}"
+                },
+                "statusbar": {
+                    "hide" : true
+                }
+            }
         }
     ]
 }
