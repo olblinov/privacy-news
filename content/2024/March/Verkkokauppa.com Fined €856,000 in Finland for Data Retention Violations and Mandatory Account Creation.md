@@ -4,6 +4,7 @@ tags:
   - dark_pattern
   - retention
   - change
+  - minimization
 links:
   - https://tietosuoja.fi/-/verkkokauppa.comille-seuraamusmaksu-asiakastietojen-sailytysajan-maarittelematta-jattamisesta-myos-vaatimus-asiakkaan-rekisteroitymisesta-oli-lainvastainen
   - https://tietosuoja.fi/documents/6927448/204092115/P%C3%A4%C3%A4t%C3%B6s+TSV.26.2020.pdf/cc31f8b8-a4ec-e622-501d-6b0e2e1a53ca/P%C3%A4%C3%A4t%C3%B6s+TSV.26.2020.pdf?t=1710776065426
