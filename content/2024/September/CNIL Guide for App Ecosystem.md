@@ -7,6 +7,7 @@ tags:
   - methodology
 links:
   - https://www.cnil.fr/sites/cnil/files/2024-09/recommandation-applications-mobiles.pdf
+date: 2024-09-30
 ---
 CNIL published a guide focused on apps. It deals with stakeholders in the ecosystem (developers, publishers, app stores, OS providers, SDK providers etc.), GDPR applicability, explains their roles in terms of processing.
 

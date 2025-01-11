@@ -5,6 +5,7 @@ tags:
 links:
   - https://agportal-s3bucket.s3.us-west-2.amazonaws.com/uploadedfiles/Home/News/Press_Releases/DBR2024_formtted_v4.pdf?VersionId=_FNta5sD0_.XU3gnR1WASUHAwNOdap7G
   - https://www.atg.wa.gov/news/news-releases/ag-report-data-breaches-reach-new-all-time-high-washington
+date: 2024-11-30
 ---
 # Summary
 

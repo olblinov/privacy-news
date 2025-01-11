@@ -5,6 +5,7 @@ tags:
 links:
   - https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-approves-final-order-against-rytr-seller-ai-testimonial-review-service-providing-subscribers
   - https://www.ftc.gov/system/files/ftc_gov/pdf/2323052rytrcomplaint.pdf
+date: 2024-12-31
 ---
 # Summary
 

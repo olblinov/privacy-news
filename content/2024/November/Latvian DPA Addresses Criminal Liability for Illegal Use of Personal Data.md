@@ -4,6 +4,7 @@ tags:
   - methodology
 links:
   - https://www.dvi.gov.lv/lv/jaunums/dviskaidro-nelikumigas-darbibas-ar-fizisko-personu-datiem-kad-iestajas-kriminalatbildiba
+date: 2024-11-30
 ---
 # Summary
 

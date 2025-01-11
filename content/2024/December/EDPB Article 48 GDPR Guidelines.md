@@ -4,6 +4,7 @@ tags:
   - transfers
 links:
   - https://www.edpb.europa.eu/system/files/2024-12/edpb_guidelines_202402_article48_en.pdf
+date: 2024-12-31
 ---
 # Summary
 

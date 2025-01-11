@@ -5,6 +5,7 @@ tags:
   - breach
 links:
   - https://autoriteitpersoonsgegevens.nl/system/files?file=2024-09/Rapportage%20waarschuwingsberichten%20na%20datalekken.pdf
+date: 2024-09-30
 ---
 - **Guidance on data breach notifications to data subjects** (https://autoriteitpersoonsgegevens.nl/system/files?file=2024-09/Rapportage%20waarschuwingsberichten%20na%20datalekken.pdf, https://autoriteitpersoonsgegevens.nl/themas/beveiliging/datalekken/zo-informeert-u-slachtoffers-over-een-datalek#8-aanbevelingen-voor-goede-waarschuwingsberichten): 
   - Notify victims as soon as possible to allow them to protect themselves from potential misuse of their personal data.

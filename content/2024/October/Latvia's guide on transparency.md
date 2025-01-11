@@ -5,6 +5,7 @@ tags:
   - dark_pattern
 links:
   - https://www.dvi.gov.lv/lv/jaunums/dviskaidro-kados-veidos-datu-subjektam-var-sniegt-informaciju-par-datu-apstradi
+date: 2024-10-31
 ---
 Not in all cases the publication of a privacy policy is sufficient to ensure that a person is informed of the processing of his data in a timely and full manner. Therefore, this time we will look at additional ways and formats for organizations to fulfill their information responsibilities.
 

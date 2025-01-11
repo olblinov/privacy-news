@@ -5,6 +5,7 @@ tags:
   - adtech
 links:
   - https://oag.ca.gov/news/press-releases/attorney-general-bonta-attorney-general-james-lead-coalition-suing-tiktok
+date: 2024-10-31
 ---
 California Attorney General Rob Bonta and New York Attorney General Letitia James today co-led a bipartisan coalition of 14 attorneys general in filing separate enforcement actions against TikTok for violations of state consumer protection laws.
 

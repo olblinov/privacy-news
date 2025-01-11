@@ -5,6 +5,7 @@ tags:
 links:
   - https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/documentos-de-publicacoes/guia_da_atuacao_do_encarregado_anpd.pdf
   - https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-lanca-guia-sobre-atuacao-do-encarregado
+date: 2024-12-31
 ---
 # Summary
 

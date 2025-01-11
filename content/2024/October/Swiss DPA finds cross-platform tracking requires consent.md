@@ -8,6 +8,7 @@ tags:
 links:
   - https://www.edoeb.admin.ch/edoeb/en/home/kurzmeldungen/nsb_mm.msg-id-102867.html
   - https://www.newsd.admin.ch/newsd/message/attachments/90127.pdf
+date: 2024-10-31
 ---
 The Federal Data Protection and Information Commissioner (FDPIC) concluded his case investigation into the Ricardo auction platform on 11 April 2024. In his final report, he recommended that Ricardo AG and the TX Group AG make data transfers and cross-platform tracking for the purpose of targeted advertising transparent and obtain valid consent for these practices from their users.
 

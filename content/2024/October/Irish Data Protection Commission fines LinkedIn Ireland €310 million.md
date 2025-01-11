@@ -7,7 +7,8 @@ tags:
   - adtech
 links:
   - https://www.dataprotection.ie/en/news-media/press-releases/irish-data-protection-commission-fines-linkedin-ireland-eu310-million
-  - https://www.dataprotection.ie/sites/default/files/uploads/inline-images/LinkedIn%20Decision%20October%202024%20Infographic.png)
+  - https://www.dataprotection.ie/sites/default/files/uploads/inline-images/LinkedIn%20Decision%20October%202024%20Infographic.png
+date: 2024-10-31
 ---
 The inquiry examined LinkedIn’s processing of personal data for the purposes of behavioural analysis and targeted advertising of users who have created LinkedIn profiles (members). The decision includes a reprimand, an order for LinkedIn to bring its processing into compliance, and administrative fines totalling €310 million.
 

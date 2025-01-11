@@ -8,6 +8,7 @@ tags:
   - change
 links:
   - https://curia.europa.eu/juris/document/document.jsf?text=&docid=290022&pageIndex=0&doclang=EN&mode=req&dir=&occ=first&part=1&cid=2084344
+date: 2024-09-30
 ---
 - **CJEU AG on Automated Decision Making and disclosure of decision mechanism (complexity, trade secrets)**:
   - A mobile telephone operator refused to extend a contract with the customer on the ground that she did not have sufficient financial creditworthiness. CK’s allegedly insufficient creditworthiness was substantiated by an automated credit assessment.  D & B (the operator) challenged the decision of the Austrian data protection authority requiring it to disclose the information requested by CK before the Bundesverwaltungsgericht (Federal Administrative Court, Austria).

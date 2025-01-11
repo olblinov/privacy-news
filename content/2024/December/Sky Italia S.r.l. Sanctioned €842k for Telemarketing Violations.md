@@ -4,6 +4,7 @@ tags:
   - direct_marketing
 links:
   - https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10076504
+date: 2024-12-31
 ---
 # Summary
 

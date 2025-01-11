@@ -5,6 +5,7 @@ tags:
   - deletion
 links:
   - https://datenschutz-hamburg.de/news/neuigkeiten-zum-recht-auf-vergessenwerden
+date: 2024-11-30
 ---
 # Summary
 

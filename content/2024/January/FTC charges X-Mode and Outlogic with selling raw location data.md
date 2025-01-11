@@ -11,6 +11,7 @@ tags:
 links:
   - https://www.ftc.gov/system/files/ftc_gov/pdf/X-Mode-Complaint.pdf
   - https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-order-prohibits-data-broker-x-mode-social-outlogic-selling-sensitive-location-data
+date: 2024-01-31
 ---
 # Background
 - X-Mode licenses to third parties raw location data tied to unique persistent identifiers. These third parties can then analyze and use the data for their own purposes, such as advertising or brand analytics, or provide access to the information for their own customers. 

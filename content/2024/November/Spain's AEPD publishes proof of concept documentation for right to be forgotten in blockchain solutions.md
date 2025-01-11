@@ -5,6 +5,7 @@ tags:
 links:
   - https://www.aepd.es/prensa-y-comunicacion/notas-de-prensa/la-aepd-publica-una-nota-tecnica-en-relacion-con-blockchain-y
   - https://www.aepd.es/guias/nota-tecnica-blockchain.pdf
+date: 2024-11-30
 ---
 # Summary
 

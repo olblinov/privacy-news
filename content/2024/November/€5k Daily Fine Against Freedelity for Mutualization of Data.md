@@ -7,6 +7,7 @@ tags:
 links:
   - https://www.autoriteprotectiondonnees.be/carte-d-identite-comme-carte-de-fidelite-l-apd-ordonne-a-freedelity-de-se-conformer-au-rgpd
   - https://www.gegevensbeschermingsautoriteit.be/publications/beslissing-ten-gronde-nr.-146-2024.pdf
+date: 2024-11-30
 ---
 # Summary
 

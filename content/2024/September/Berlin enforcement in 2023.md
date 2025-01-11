@@ -5,6 +5,7 @@ tags:
   - enforcement_pattern
 links:
   - https://www.datenschutz-berlin.de/pressemitteilung/veroeffentlichung-des-jahresberichts-2023/
+date: 2024-09-30
 ---
 In 2023, the Data Protection Commissioner imposed fines totaling 549,410 euros on private bodies in the state of Berlin. The annual report provides information on three key cases:
 

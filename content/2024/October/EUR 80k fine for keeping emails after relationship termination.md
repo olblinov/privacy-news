@@ -8,7 +8,8 @@ tags:
   - retention
 links:
   - https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10066116#2
-  - https://www.garanteprivacy.it/garante/doc.jsp?ID=10053224)
+  - https://www.garanteprivacy.it/garante/doc.jsp?ID=10053224
+date: 2024-10-31
 ---
 **Guarantor: stop the software that accesses the employee's email  
 _Sanction of 80 thousand euros to a company that made backups during the employment relationship_**

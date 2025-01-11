@@ -5,6 +5,7 @@ tags:
   - vendor_management
 links:
   - https://www.edpb.europa.eu/system/files/2024-10/edpb_opinion_202422_relianceonprocessors-sub-processors_en.pdf
+date: 2024-10-31
 ---
 - Controllers should have the information on the identity (i.e. name, address, contact person) of all processors, sub-processors etc. readily available at all times so that they can best fulfil their obligations under Article 28 GDPR
 - Processor should proactively provide to the controller all this information and should keep them up to date at all times

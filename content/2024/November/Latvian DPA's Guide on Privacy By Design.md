@@ -5,6 +5,7 @@ tags:
   - pbd
 links:
   - https://www.dvi.gov.lv/lv/jaunums/dviskaidro-kas-ir-integreta-datu-aizsardziba
+date: 2024-11-30
 ---
 # Summary
 

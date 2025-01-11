@@ -5,6 +5,7 @@ tags:
   - dark_pattern
 links:
   - https://www.cnil.fr/en/dark-patterns-cookie-banners-cnil-issues-formal-notice-website-publishers
+date: 2024-12-31
 ---
 # Summary
 

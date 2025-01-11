@@ -5,6 +5,7 @@ tags:
 links:
   - https://www.oaic.gov.au/privacy/privacy-assessments-and-decisions/privacy-decisions/enforceable-undertakings/meta-platforms-inc-enforceable-undertaking#section-1-background
   - https://www.oaic.gov.au/news/media-centre/landmark-settlement-of-$50m-from-meta-for-australian-users-impacted-by-cambridge-analytica-incident
+date: 2024-12-31
 ---
 # Summary
 

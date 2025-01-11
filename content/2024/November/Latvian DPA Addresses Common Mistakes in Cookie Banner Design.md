@@ -5,6 +5,7 @@ tags:
   - methodology
 links:
   - https://www.dvi.gov.lv/lv/jaunums/dviskaidro-kadas-kludas-visbiezak-tiek-pielautas-sikdatnu-baneros
+date: 2024-11-30
 ---
 # Summary
 

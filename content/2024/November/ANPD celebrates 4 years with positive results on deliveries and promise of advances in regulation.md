@@ -5,6 +5,7 @@ tags:
 links:
   - https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-comemora-4-anos-com-balanco-positivo-das-entregas-e-promessa-de-avancos-na-regulamentacao
   - https://www.gov.br/anpd/pt-br/documentos-e-publicacoes/anpd-balanco-4-anos.pdf
+date: 2024-11-30
 ---
 # Summary
 

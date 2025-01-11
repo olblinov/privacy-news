@@ -6,6 +6,7 @@ tags:
   - employment
 links:
   - https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2024/10/what-price-privacy-poor-psni-procedures-culminate-in-750k-fine/
+date: 2024-10-31
 ---
 On 3 August 2023, Police Service of Northern Ireland (PSNI) received two freedom of information requests from the same person via WhatDoTheyKnow (WDTK). The first asked for “… the number of officers at each rank and number of staff at each grade …”, the second asking for a distinction between “how many are substantive / temporary / acting …”. 
   

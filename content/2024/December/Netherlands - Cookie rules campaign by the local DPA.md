@@ -7,6 +7,7 @@ links:
   - https://www.autoriteitpersoonsgegevens.nl/themas/internet-slimme-apparaten/cookies/cookies-en-uw-organisatie-zorg-voor-een-goed-cookiebeleid
   - https://www.autoriteitpersoonsgegevens.nl/themas/internet-slimme-apparaten/cookies/heldere-en-misleidende-cookiebanners
   - https://www.autoriteitpersoonsgegevens.nl/themas/internet-slimme-apparaten/cookies/cookiewall
+date: 2024-12-31
 ---
 # Cookie Policies
 

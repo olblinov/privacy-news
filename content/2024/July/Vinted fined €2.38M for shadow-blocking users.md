@@ -6,6 +6,7 @@ tags:
   - change
 links:
   - https://vdai.lrv.lt/en/news/a-company-operating-an-online-second-hand-clothing-trading-and-exchange-platform-is-fined-under-the-general-data-protection-regulation/
+date: 2024-07-31
 ---
 - **Vinted fined €2.38M for shadow-blocking users** 
   - Background: Vinted, UAB (the company) is the operator of the online second-hand clothing trading and exchange platform “Vinted”.

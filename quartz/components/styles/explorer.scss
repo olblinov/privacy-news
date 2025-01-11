@@ -102,6 +102,10 @@ button#explorer {
   }
 }
 
+ul.content > li > a {
+  margin-bottom:8px
+}
+
 svg {
   pointer-events: all;
 

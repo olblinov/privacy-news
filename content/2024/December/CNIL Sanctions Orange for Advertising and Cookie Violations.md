@@ -8,6 +8,7 @@ tags:
 links:
   - https://www.cnil.fr/fr/publicites-inserees-entre-les-courriels-sanction-de-50-millions-deuros-orange
   - https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000050760620
+date: 2024-12-31
 ---
 # Summary
 

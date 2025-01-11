@@ -4,6 +4,7 @@ tags:
   - methodology
 links:
   - https://www.dvi.gov.lv/lv/jaunums/dviskaidro-datu-apstrades-dzivescikls-no-iegusanas-lidz-dzesanai
+date: 2024-11-30
 ---
 # Summary
 

@@ -7,6 +7,7 @@ tags:
   - fine
 links:
   - https://www.cnil.fr/en/online-clairvoyance-cosmospace-and-telemaque-fined-eu250000-and-eu150000
+date: 2024-10-31
 ---
 COSMOSPACE and TELEMAQUE provide remote clairvoyance services, one by telephone and the other via online chat and text messages.
 

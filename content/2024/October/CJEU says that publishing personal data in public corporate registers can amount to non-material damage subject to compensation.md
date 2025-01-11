@@ -5,6 +5,7 @@ tags:
   - damages
 links:
   - https://curia.europa.eu/juris/document/document.jsf?text=&docid=290701&pageIndex=0&doclang=EN&mode=lst&dir=&occ=first&part=1&cid=4017440
+date: 2024-10-31
 ---
 OL is a member of ‘Praven Shtit Konsulting’ OOD, a limited liability company governed by Bulgarian law, which was registered on 14 January 2021 in the commercial register following the submission of a company’s constitutive instrument dated 30 December 2020 and signed by the members of that company (‘the constitutive instrument concerned’).
 

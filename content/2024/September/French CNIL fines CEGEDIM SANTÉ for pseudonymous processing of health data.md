@@ -7,6 +7,7 @@ tags:
   - change
 links:
   - https://www.cnil.fr/en/health-data-cegedim-sante-fined-eu800000
+date: 2024-09-30
 ---
 - **French CNIL fines CEGEDIM SANTÉ for pseudonymous processing of health data** (https://www.cnil.fr/en/health-data-cegedim-sante-fined-eu800000):
   - CEGEDIM SANTÉ publishes and sells management software for general practitioners working in surgery and health centers. Some 25,000 medical practices and 500 health centers use this software. This software enables doctors to manage their diaries, patient files and prescriptions. As part of its business, the company offers a panel of doctors using one of these software packages the opportunity to join an "observatory". Data collected are then used by CEGEDIM SANTÉ's customers, in particular for research purposes.

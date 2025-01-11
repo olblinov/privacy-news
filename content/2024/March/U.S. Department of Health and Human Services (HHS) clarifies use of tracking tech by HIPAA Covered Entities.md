@@ -7,6 +7,7 @@ tags:
   - us
 links:
   - https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/hipaa-online-tracking/index.html
+date: 2024-03-31
 ---
 NB: A court vacated the guidance to the extent it provides that HIPAA obligations are triggered in “circumstances where an online technology connects (1) an individual’s IP address with (2) a visit to an unauthenticated public webpage addressing specific health conditions or healthcare providers.
 

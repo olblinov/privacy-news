@@ -7,6 +7,7 @@ tags:
 links:
   - https://about.fb.com/news/2024/11/facebook-and-instagram-to-offer-subscription-for-no-ads-in-europe/
   - https://www.datatilsynet.no/aktuelt/aktuelle-nyheter-2024/meta-med-nye-valgmuligheter/
+date: 2024-11-30
 ---
 # Summary
 

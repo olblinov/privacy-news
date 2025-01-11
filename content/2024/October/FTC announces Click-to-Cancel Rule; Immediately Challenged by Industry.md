@@ -6,8 +6,9 @@ tags:
 links:
   - https://www.ftc.gov/news-events/news/press-releases/2024/10/federal-trade-commission-announces-final-click-cancel-rule-making-it-easier-consumers-end-recurring
   - https://www.ftc.gov/system/files/ftc_gov/pdf/NegOptions-1page-Oct2024-v2.pdf
-  - https://www.ftc.gov/legal-library/browse/federal-register-notices/negative-option-rule-final-rule)
+  - https://www.ftc.gov/legal-library/browse/federal-register-notices/negative-option-rule-final-rule
   - https://www.theverge.com/2024/10/23/24278020/ftc-click-to-cancel-subscriptions-rule-lawsuit-telecoms-security-advertising-groups
+date: 2024-10-31
 ---
 The Federal Trade Commission today announced a [final “click-to-cancel” rule](https://www.ftc.gov/legal-library/browse/federal-register-notices/negative-option-rule-final-rule) that will require sellers to make it as easy for consumers to cancel their enrollment as it was to sign up. Most of the final rule’s provisions will go into effect 180 days after it is published in the Federal Register.
 

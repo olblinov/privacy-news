@@ -6,6 +6,7 @@ links:
   - https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2024/10_10_2024_Facebook.html?nn=48916
   - https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2023/07_06_2023_Meta_Daten.html?nn=48916
   - https://en-gb.facebook.com/privacy/policy/?entry_point=facebook_page_footer](https://de-de.facebook.com/privacy/policy/
+date: 2024-10-31
 ---
 The Bundeskartellamt has concluded its Facebook proceeding. The result of the proceeding is a bundle of measures that gives users of the social network Facebook significantly improved options regarding the combination of their data.
 

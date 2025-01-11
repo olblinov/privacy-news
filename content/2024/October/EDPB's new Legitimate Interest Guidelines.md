@@ -7,6 +7,7 @@ tags:
   - change
 links:
   - https://www.edpb.europa.eu/our-work-tools/documents/public-consultations/2024/guidelines-12024-processing-personal-data-based_en
+date: 2024-10-31
 ---
 Interesting points:
 - 3 cumulative conditions for LI (para 6):

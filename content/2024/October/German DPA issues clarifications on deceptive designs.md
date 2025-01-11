@@ -10,6 +10,7 @@ links:
   - https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2024/10/Emotional-Steering.jpg
   - https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2024/10/Hidden-in-Plain-Sight.jpg
   - https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2024/10/Bild_Left-in-the-Dark-–-Conflicting-Information.jpg
+date: 2024-10-31
 ---
 Specific scenarios covered:
 - **Overloading**: Users are confronted with a large amount of inquiries, information, options and / or options, which entices them to disclose more data or inadvertently allow data processing contrary to their expectations. Examples:

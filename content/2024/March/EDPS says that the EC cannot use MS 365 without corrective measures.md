@@ -5,6 +5,7 @@ tags:
 links:
   - https://www.edps.europa.eu/system/files/2024-03/EDPS-2024-05-European-Commission_s-use-of-M365-infringes-data-protection-rules-for-EU-institutions-and-bodies_EN.pdf
   - https://www.edps.europa.eu/press-publications/press-news/press-releases/2024/european-commissions-use-microsoft-365-infringes-data-protection-law-eu-institutions-and-bodies_en
+date: 2024-03-31
 ---
 In EDPS's opinion, the EC failed to comply with GDPR on the following matters: 
   - Purpose limitation:

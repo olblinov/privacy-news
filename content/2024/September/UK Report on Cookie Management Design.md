@@ -7,6 +7,7 @@ tags:
   - methodology
 links:
   - https://assets.publishing.service.gov.uk/media/660d15f338f66c001184a95d/BIT_Evaluating_browser-based_cookie_settings_report.pdf
+date: 2024-09-30
 ---
 Between August and December 2023, BIT designed, built, and tested an online experiment with 5,019 UK adults (18+). 
 # Takeaways

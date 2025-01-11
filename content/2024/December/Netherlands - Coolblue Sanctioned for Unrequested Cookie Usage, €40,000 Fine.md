@@ -5,6 +5,7 @@ tags:
   - dark_pattern
 links:
   - https://www.autoriteitpersoonsgegevens.nl/actueel/boete-voor-coolblue-voor-het-ongevraagd-gebruiken-van-cookies
+date: 2024-12-31
 ---
 # Summary
 

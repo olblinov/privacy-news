@@ -7,6 +7,7 @@ tags:
 links:
   - https://csrc.nist.gov/pubs/cswp/38/nist-privacy-workforce-taxonomy/ipd
   - https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.38.ipd.pdf
+date: 2024-11-30
 ---
 # Summary
 

@@ -5,6 +5,7 @@ tags:
   - change
 links:
   - https://www.edpb.europa.eu/our-work-tools/our-documents/strategy-work-programme/edpb-work-programme-2024-2025_en
+date: 2024-10-31
 ---
 Highlighting the most interesting and important actions planned:
 - Pillar 1: Enhancing harmonisation and promoting compliance, incl. developing:

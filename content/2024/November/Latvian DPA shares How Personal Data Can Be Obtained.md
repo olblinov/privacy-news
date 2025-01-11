@@ -4,6 +4,7 @@ tags:
   - methodology
 links:
   - https://www.dvi.gov.lv/lv/jaunums/dviskaidro-ka-var-iegut-personas-datus
+date: 2024-11-30
 ---
 # Summary
 

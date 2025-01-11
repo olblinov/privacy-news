@@ -7,6 +7,7 @@ tags:
 links:
   - https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-abre-processo-sancionador-e-emite-determinacoes-ao-tiktok
   - https://www.gov.br/anpd/pt-br/assuntos/noticias/nota-tecnica-50_pub_0153891.pdf
+date: 2024-11-30
 ---
 # Summary
 

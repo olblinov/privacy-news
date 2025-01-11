@@ -6,6 +6,7 @@ tags:
 links:
   - https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-intellivision-technologies-deceptive-claims-about-its-facial-recognition
   - https://www.ftc.gov/system/files/ftc_gov/pdf/Complaint-IntellivisionTechCorp.pdf
+date: 2024-12-31
 ---
 # Summary
 

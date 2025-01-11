@@ -4,6 +4,7 @@ tags:
   - adtech
 links:
   - https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=10726#LINK
+date: 2024-11-30
 ---
 # Summary
 

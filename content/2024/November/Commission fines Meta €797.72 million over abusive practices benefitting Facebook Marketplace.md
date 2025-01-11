@@ -4,6 +4,7 @@ tags:
   - dark_pattern
 links:
   - https://ec.europa.eu/commission/presscorner/detail/en/ip_24_5801
+date: 2024-11-30
 ---
 # Summary
 

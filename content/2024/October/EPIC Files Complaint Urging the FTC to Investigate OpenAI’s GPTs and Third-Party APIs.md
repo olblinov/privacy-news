@@ -3,7 +3,8 @@ title: EPIC Files Complaint Urging the FTC to Investigate OpenAI’s GPTs and Th
 tags:
   - ai
 links:
-  - https://epic.org/documents/in-re-openai/)
+  - https://epic.org/documents/in-re-openai/
+date: 2024-10-31
 ---
 EPIC [called](https://epic.org/documents/in-re-openai/) on the Federal Trade Commission (FTC) to investigate OpenAI for failing to meet established public policy standards for responsible AI use and development, offering products with unsafe security, privacy, and business practices, perpetuating unfair and deceptive practices in their product development and release, and causing significant consumer harm.
 

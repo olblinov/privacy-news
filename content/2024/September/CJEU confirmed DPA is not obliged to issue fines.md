@@ -6,6 +6,7 @@ tags:
 links:
   - https://curia.europa.eu/jcms/upload/docs/application/pdf/2024-09/cp240149en.pdf
   - https://curia.europa.eu/juris/document/document.jsf?text=&docid=290402&pageIndex=0&doclang=EN&mode=req&dir=&occ=first&part=1&cid=1650244
+date: 2024-09-30
 ---
 - Background: 
 	- The savings bank is a communal institution governed by public law, whose tasks include the settlement of banking and credit transactions. On 15 November 2019, it notified the HBDI, in accordance with Article 33 of the GDPR, of a personal data breach consisting of the fact that one of its employees had, on several occasions, unlawfully accessed personal data of TR, one of its customers. The savings bank failed to notify TR (the claimant) of the breach of his personal data.

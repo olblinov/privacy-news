@@ -7,6 +7,7 @@ tags:
 links:
   - https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-gravy-analytics-venntel-unlawfully-selling-location-data-tracking-consumers
   - https://www.ftc.gov/system/files/ftc_gov/pdf/2123035gravyanalyticscomplaint.pdf
+date: 2024-12-31
 ---
 # Summary
 

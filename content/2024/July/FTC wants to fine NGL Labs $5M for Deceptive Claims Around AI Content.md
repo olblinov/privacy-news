@@ -8,6 +8,7 @@ tags:
 links:
   - https://www.ftc.gov/news-events/news/press-releases/2024/07/ftc-order-will-ban-ngl-labs-its-founders-offering-anonymous-messaging-apps-kids-under-18-halt
   - https://www.ftc.gov/system/files/ftc_gov/pdf/NGL-Complaint.pdf
+date: 2024-07-31
 ---
 - **FTC wants to fine NGL Labs $5M for Deceptive Claims Around AI Content** (  [complaint transcript](ngl_complaint_transcribed.md)):
   - Background: Defendants develop and operate a social media app (“NGL App”) that

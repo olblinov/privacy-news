@@ -6,6 +6,7 @@ links:
   - https://support.google.com/platformspolicy/answer/3013851?visit_id=638717724691783482-2314290842&rd=1
   - https://support.google.com/platformspolicy/answer/15738904?sjid=7191022662840191232-EU
   - https://www.forbes.com/sites/zakdoffman/2024/12/21/forget-chrome-google-will-start-tracking-you-and-all-your-smart-devices-in-8-weeks/
+date: 2024-12-31
 ---
 # Links
 Old version: https://support.google.com/platformspolicy/answer/3013851?visit_id=638717724691783482-2314290842&rd=1

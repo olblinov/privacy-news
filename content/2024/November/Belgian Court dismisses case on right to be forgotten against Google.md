@@ -5,6 +5,7 @@ tags:
   - deletion
 links:
   - https://www.autoriteprotectiondonnees.be/publications/decision-quant-au-fond-n0-134-2024.pdf
+date: 2024-11-30
 ---
 # Summary
 

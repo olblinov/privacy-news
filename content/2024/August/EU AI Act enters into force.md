@@ -4,6 +4,7 @@ tags:
   - ai
 links:
   - https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence
+date: 2024-08-31
 ---
 - **EU AI Act enters into force**:
   - The Parliament adopted the Artificial Intelligence Act in March 2024 and the Council followed with its approval in May 2024. It will be fully applicable 24 months after entry into force, but some parts will be applicable sooner:

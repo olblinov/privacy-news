@@ -5,6 +5,7 @@ tags:
   - ftc
 links:
   - https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-order-against-ai-enabled-review-platform-sitejabber-will-ensure-consumers-get-truthful-accurate
+date: 2024-11-30
 ---
 # Summary
 

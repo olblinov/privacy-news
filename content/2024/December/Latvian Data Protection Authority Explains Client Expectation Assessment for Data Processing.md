@@ -4,6 +4,7 @@ tags:
   - methodology
 links:
   - https://www.dvi.gov.lv/lv/jaunums/dviskaidro-klienta-gaidu-novertejums-par-savu-datu-apstradi
+date: 2024-12-31
 ---
 # Summary
 

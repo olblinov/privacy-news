@@ -6,6 +6,7 @@ tags:
   - change
 links:
   - https://www.dataprotection.ie/en/news-media/press-releases/irish-data-protection-commission-fines-meta-eu251-million
+date: 2024-12-31
 ---
 # Summary
 

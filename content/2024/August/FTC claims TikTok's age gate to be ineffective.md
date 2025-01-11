@@ -5,6 +5,7 @@ tags:
   - ftc
 links:
   - https://www.ftc.gov/news-events/news/press-releases/2024/08/ftc-investigation-leads-lawsuit-against-tiktok-bytedance-flagrantly-violating-childrens-privacy-law
+date: 2024-08-31
 ---
 - **FTC claims TikTok's age gate to be ineffective** (and other COPPA violations) 
   - As of 2020, TikTok had a policy of maintaining accounts of children that it knew were under 13 unless the child made an explicit admission of age and other rigid conditions were met, according to the complaint. TikTok human reviewers allegedly spent an average of only five to seven seconds reviewing each account to make their determination of whether the account belonged to a child. 

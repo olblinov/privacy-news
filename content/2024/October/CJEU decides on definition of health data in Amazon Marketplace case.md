@@ -9,6 +9,7 @@ tags:
 links:
   - https://curia.europa.eu/jcms/upload/docs/application/pdf/2024-10/cp240159en.pdf
   - https://curia.europa.eu/juris/document/document.jsf?text=&docid=290696&pageIndex=0&doclang=EN&mode=req&dir=&occ=first&part=1&cid=4091179
+date: 2024-10-31
 ---
 Related: [[The CJEU AG considers Amazon OTC-medicines sales by pharmacies as not health data (unless the controller uses the data for diagnosis purposes)]]
 

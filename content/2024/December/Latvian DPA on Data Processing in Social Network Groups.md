@@ -4,6 +4,7 @@ tags:
   - methodology
 links:
   - https://www.dvi.gov.lv/lv/jaunums/dviskaidro-datu-apstrade-socialo-tiklu-grupas-kad-piemerojama-datu-regula
+date: 2024-12-31
 ---
 # Summary
 

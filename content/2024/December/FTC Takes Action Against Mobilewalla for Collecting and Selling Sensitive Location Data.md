@@ -6,6 +6,7 @@ tags:
   - adtech
 links:
   - https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-mobilewalla-collecting-selling-sensitive-location-data
+date: 2024-12-31
 ---
 # Summary
 

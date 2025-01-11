@@ -4,7 +4,8 @@ tags:
   - methodology
 links:
   - https://csrc.nist.gov/pubs/sp/800/172/r3/ipd
-  - https://csrc.nist.gov/pubs/sp/800/171/r3/final)
+  - https://csrc.nist.gov/pubs/sp/800/171/r3/final
+date: 2024-11-30
 ---
 # Summary
 

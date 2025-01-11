@@ -4,6 +4,7 @@ tags:
   - brazil
 links:
   - https://www.gov.br/anpd/pt-br/assuntos/noticias/anpd-fiscaliza-20-empresas-por-falta-de-encarregado-e-canal-de-comunicacao
+date: 2024-12-31
 ---
 # Summary
 

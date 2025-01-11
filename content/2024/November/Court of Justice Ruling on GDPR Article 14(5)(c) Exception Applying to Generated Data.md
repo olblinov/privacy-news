@@ -5,6 +5,7 @@ tags:
   - transparency
 links:
   - https://curia.europa.eu/juris/document/document.jsf?text=&docid=292739&pageIndex=0&doclang=EN&mode=lst&dir=&occ=first&part=1&cid=10702385
+date: 2024-11-30
 ---
 # Summary
 

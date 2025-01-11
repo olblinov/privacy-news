@@ -6,6 +6,7 @@ tags:
 links:
   - https://www.edpb.europa.eu/news/national-news/2024/hamburg-sa-conducts-sector-wide-investigation-credit-collection-services_en
   - https://datenschutz-hamburg.de/news/branchenweite-schwerpunktpruefung-im-forderungsmanagement
+date: 2024-11-30
 ---
 # Summary
 

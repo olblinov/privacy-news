@@ -4,6 +4,7 @@ tags:
   - dark_pattern
 links:
   - https://www.drcf.org.uk/siteassets/drcf/pdf-files/harmful-design-in-digital-markets-ico-cma-joint-position-paper.pdf?v=380506
+date: 2024-11-30
 ---
 # Summary
 

@@ -7,6 +7,7 @@ tags:
   - change
 links:
   - https://www.datenschutzkonferenz-online.de/media/dskb/2024-09-11_Beschluss%20DSK_%20Asset_Deals.pdf
+date: 2024-09-30
 ---
 # Customer Data
 As for customer data, the guidance distinguishes the following matters:
