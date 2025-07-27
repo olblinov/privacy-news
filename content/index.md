@@ -1,6 +1,34 @@
 ---
 title: Privacy News Central
 ---
+# January 2025
+
+[Folder](2025/January)
+
+- 🇪🇺⚖️ CJEU Rules on Austria DPA's Refusal to Act on Excessive GDPR Complaints
+- 🇫🇷🚆 CJEU Rules that Collection of Gender by France SNCF Connect is Excessiveitled
+- 🇫🇷🗄️ CNIL Guidance on Database Reuse
+- 🇳🇱🍪 Dutch AP Fines Coolblue B.V. €40,000 for GDPR Violation Related to Cookie Consent
+- 🇪🇺🔍 EDPB case digest on right of access
+- 🇪🇺➡️ EU Commission Ordered to Pay €400 for Unlawful Data Transfer to US
+- 🚫🚗 FTC Bans General Motors from Sharing Driver Data Without Consent
+- 🚫📍 FTC Bans Gravy Analytics Venntel from Selling Sensitive Location Data No Monetary Fine
+- 📱🚫 FTC Finalizes Order Banning Mobilewalla from Selling Sensitive Location Data
+- 🎮💰 FTC Fines Genshin Impact Developer $20 Million and Banned from Loot Box Sales to Underage Players
+- 🇪🇺📝 IAB Europe Sends Feedback Paper to the EDPB after the Stakeholder Event Regarding the 'Consent or Pay' Models
+- 🇮🇹🚫 Italian DPA bans DeepSeek from processing Italian user's data
+- 🏥💶 Italy Ascoli Piceno Health Authority Fined €17,000 for Health Data and Information Request Violations
+- 📞💶 Italy Illumia Fined €678,897 for Telemarketing Violations
+- 🏦🗑️ Poland Bank Millennium Ordered to Delete Data for Excessive Processing
+- 🗺️💵 Poland Chief Geodesist Fined 100,000 PLN Over Land Registry Number Personal Data Ruling
+- 💻🔓 Poland Panek SA and ITCenter Fined for Data Breach During Website Migration PLN 1,527,855 and PLN 20,037
+- 🇷🇴💰 Romania RED&WHITE 2022 MANAGEMENT S.A. Fined 24854.50 Lei for GDPR Processor Instruction Violation
+- 🇪🇸🖐️ Spain Sanctions Cartonajes Bañeres for Biometric Data Processing and Access Right Violations Totaling €220,000
+- ☀️📊 Spain Sanctions EDP SOLAR ESPAÑA S.A. €42,000 for Sharing Data of 100 Data Subjects in Solar Energy Project
+- 🤠📱 Texas Sues TikTok Over Deceptive Marketing and Harmful App Design Seeking Over $1 Million in Penalties
+- 🏦🚗 Toyota Bank Fined 576,220 PLN for Data Protection Officer Independence and Profiling Violations
+- 🇬🇧⚖️ UK Court Dismisses Data Disclosure Claim Against Alasdair Cameron and Alasdair Cameron Limited
+
 # December 2024
 
 [Folder](2024/December/)
