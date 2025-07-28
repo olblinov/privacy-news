@@ -7,6 +7,7 @@ links:
   - https://www.edpb.europa.eu/system/files/2025-01/oss-case-digest-right-of-access_en.pdf
   - https://www.edpb.europa.eu/system/files/2022-12/dk_2022-05_decisionpublic.pdf
   - https://www.edpb.europa.eu/our-work-tools/our-documents/support-pool-experts-projects/one-stop-shop-case-digest-right-access_en
+  - https://www.edpb.europa.eu/system/files/2023-08/fr_2023-06decisionpublic_redacted.pdf
 date: 2025-01-16
 ---
 # Summary

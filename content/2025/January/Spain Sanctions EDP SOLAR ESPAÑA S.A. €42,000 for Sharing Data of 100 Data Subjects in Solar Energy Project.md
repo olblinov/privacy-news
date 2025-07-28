@@ -6,8 +6,6 @@ links:
   - https://www.aepd.es/documento/ps-00028-2024.pdf
 date: 2024-11-19
 ---
-
-
 # Summary
 
 The Spanish Data Protection Agency (AEPD) initiated a sanctioning procedure against **EDP SOLAR ESPAÑA, S.A.**, triggered by a complaint regarding the dissemination of personal data of approximately **99 participants** in a collective solar energy project called "Barrio Solar". The AEPD found that EDP SOLAR ESPAÑA, S.A. had violated the **data minimization principle** under Article 5.1.c) of the General Data Protection Regulation (GDPR) by including **excessive personal data** (such as names, DNI, mobile phone numbers, email addresses, postal addresses, CUPS, UTM, and cadastral references) in a collective agreement sent to all participants, which was not necessary for the stated purpose. The AEPD initially proposed a **€70,000 fine** but, due to EDP SOLAR ESPAÑA, S.A. recognizing responsibility and making a voluntary payment, the fine was reduced to **€42,000**, leading to the termination of the procedure. Additionally, EDP SOLAR ESPAÑA, S.A. was ordered to **adjust its data processing practices** to ensure only strictly necessary data is communicated to participants.
