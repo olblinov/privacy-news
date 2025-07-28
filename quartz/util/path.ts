@@ -163,7 +163,6 @@ export function pathToRoot(slug: FullSlug): RelativeURL {
 
 export function resolveRelative(current: FullSlug, target: FullSlug | SimpleSlug): RelativeURL {
   const res = joinSegments(pathToRoot(current), simplifySlug(target as FullSlug)) as RelativeURL
-  console.log(res, pathToRoot(current), simplifySlug(target as FullSlug))
   return res
 }
 

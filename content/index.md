@@ -3,7 +3,7 @@ title: Privacy News Central
 ---
 # January 2025
 
-[Folder](2025/January)
+[Folder](2025/January/)
 
 - 🇪🇺⚖️ CJEU Rules on Austria DPA's Refusal to Act on Excessive GDPR Complaints
 - 🇫🇷🚆 CJEU Rules that Collection of Gender by France SNCF Connect is Excessiveitled
