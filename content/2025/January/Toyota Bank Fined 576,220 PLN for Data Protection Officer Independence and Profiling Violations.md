@@ -10,6 +10,7 @@ tags:
 links:
   - https://uodo.gov.pl/decyzje/DKN.5112.14.2022
   - https://uodo.gov.pl/pl/138/3519
+date: 2024-12-18
 ---
 # Summary
 

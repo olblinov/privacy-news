@@ -4,6 +4,7 @@ tags:
   - rights
 links:
   - https://www.bailii.org/ew/cases/EWHC/KB/2024/1377.html
+date: 2024-06-07
 ---
 # Summary
 

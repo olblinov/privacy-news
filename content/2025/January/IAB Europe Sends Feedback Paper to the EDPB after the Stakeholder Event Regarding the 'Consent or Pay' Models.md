@@ -5,6 +5,7 @@ tags:
 links:
   - https://iabeurope.eu/iab-europe-sends-feedback-paper-to-the-edpb-after-the-stakeholder-event-regarding-the-consent-or-pay-models/
   - http://iabeurope.eu/wp-content/uploads/Feedback-paper-on-the-European-Data-Protection-Boards-stakeholders-event-regarding-Consent-or-Pay-models.pdf
+date: 2025-01-16
 ---
 # IAB Europe's Feedback Paper on "Consent or Pay" Models
 

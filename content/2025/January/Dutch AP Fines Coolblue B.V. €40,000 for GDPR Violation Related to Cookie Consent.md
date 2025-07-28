@@ -6,6 +6,7 @@ tags:
 links:
   - https://www.autoriteitpersoonsgegevens.nl/actueel/boete-voor-coolblue-voor-het-ongevraagd-gebruiken-van-cookies
   - https://www.autoriteitpersoonsgegevens.nl/system/files?file=2024-12/Beslissing%20op%20bezwaar%20-%20boete%20Coolblue.pdf
+date: 2024-12-23
 ---
 # Summary
 

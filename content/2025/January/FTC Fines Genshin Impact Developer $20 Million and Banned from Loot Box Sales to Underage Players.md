@@ -7,6 +7,7 @@ links:
   - https://www.ftc.gov/news-events/news/press-releases/2025/01/genshin-impact-game-developer-will-be-banned-selling-lootboxes-teens-under-16-without-parental
   - https://www.ftc.gov/system/files/ftc_gov/pdf/cognosphere_complaint.pdf
   - https://www.ftc.gov/system/files/ftc_gov/pdf/Cognosphere-Attachment3-3.pdf
+date: 2025-01-17
 ---
 # Summary
 

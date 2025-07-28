@@ -5,6 +5,7 @@ tags:
   - pbd
 links:
   - https://www.cnil.fr/fr/reutilisation-de-bases-de-donnees-les-verifications-necessaires-pour-respecter-la-loi
+date: 2025-01-23
 ---
 # Summary
 

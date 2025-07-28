@@ -7,6 +7,7 @@ tags:
 links:
   - https://curia.europa.eu/jcms/upload/docs/application/pdf/2025-01/cp250002en.pdf
   - https://curia.europa.eu/juris/document/document.jsf?text=&docid=294110&pageIndex=0&doclang=EN&mode=req&dir=&occ=first&part=1&cid=1728710
+date: 2025-01-09
 ---
 # Summary
 

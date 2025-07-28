@@ -5,6 +5,7 @@ tags:
   - legitimate_interest
 links:
   - https://uodo.gov.pl/pl/138/3510
+date: 2025-01-15
 ---
 # Summary
 

@@ -6,6 +6,7 @@ tags:
 links:
   - https://uodo.gov.pl/pl/138/3487
   - https://www.uodo.gov.pl/decyzje/DKN.5130.2415.2020
+date: 2025-12-23
 ---
 # Summary
 

@@ -5,6 +5,7 @@ tags:
   - "#cjeu"
 links:
   - https://curia.europa.eu/juris/document/document.jsf?text=&docid=294111&pageIndex=0&doclang=EN&mode=req&dir=&occ=first&part=1&cid=1737911
+date: 2025-01-09
 ---
 # Summary
 

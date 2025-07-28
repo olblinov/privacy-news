@@ -5,6 +5,7 @@ tags:
   - ai
 links:
   - https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10097450
+date: 2025-01-30
 ---
 The Italian Data Protection Authority has ordered, as a matter of urgency and with immediate effect, the [limitation on processing](https://www.garanteprivacy.it/garante/doc.jsp?ID=10098477) of Italian users' data against Hangzhou DeepSeek Artificial Intelligence and Beijing DeepSeek Artificial Intelligence, the Chinese companies that provide the DeepSeek chatbot service.
 

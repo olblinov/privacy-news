@@ -9,6 +9,7 @@ links:
   - https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-takes-action-against-general-motors-sharing-drivers-precise-location-driving-behavior-data
   - https://www.ftc.gov/system/files/ftc_gov/pdf/242_3052_-_general_motors_decisionandorder.pdf
   - https://www.ftc.gov/system/files/ftc_gov/pdf/242_3052_-_general_motors_complaint.pdf
+date: 2025-01-16
 ---
 # Summary
 

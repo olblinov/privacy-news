@@ -4,6 +4,7 @@ tags:
   - vendor_management
 links:
   - https://www.dataprotection.ro/index.jsp?page=Comunicat_Presa_30_01_2025&lang=ro
+date: 2025-01-30
 ---
 # Summary
 

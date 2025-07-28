@@ -5,6 +5,7 @@ tags:
   - dpia
 links:
   - https://www.aepd.es/documento/ps-00361-2023.pdf
+date: 2025-01-17
 ---
 # Summary
 

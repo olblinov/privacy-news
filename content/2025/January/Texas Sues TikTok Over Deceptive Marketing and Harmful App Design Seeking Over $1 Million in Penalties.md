@@ -6,6 +6,7 @@ tags:
 links:
   - https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-sues-tiktok-deceptively-promoting-its-app-safe-children-despite
   - https://www.texasattorneygeneral.gov/sites/default/files/images/press/Texas%20TikTok%20Petition%20Public%20Redacted.pdf
+date: 2025-01-09
 ---
 # Summary
 

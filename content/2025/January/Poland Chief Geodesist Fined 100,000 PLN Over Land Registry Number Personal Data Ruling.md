@@ -4,6 +4,7 @@ tags:
   - personal_data
 links:
   - https://uodo.gov.pl/pl/138/3533
+date: 2025-01-28
 ---
 # Summary
 

@@ -5,6 +5,7 @@ tags:
   - fine
 links:
   - https://curia.europa.eu/juris/document/document.jsf?text=&docid=294090&pageIndex=0&doclang=EN&mode=req&dir=&occ=first&part=1&cid=233153
+date: 2025-01-08
 ---
 # Summary
 

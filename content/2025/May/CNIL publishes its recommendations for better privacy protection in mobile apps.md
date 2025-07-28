@@ -6,6 +6,7 @@ tags:
 links:
   - https://www.cnil.fr/en/mobile-applications-cnil-publishes-its-recommendations-better-privacy-protection
   - https://www.cnil.fr/sites/cnil/files/2025-05/recommendation-mobiles-app.pdf
+date: 2025-05-13
 ---
 The provided sources outline the **recommendations by the CNIL (Commission Nationale de l'Informatique et des Libertés)**, the French data protection authority, regarding the **protection of user data and privacy in mobile applications**. These recommendations aim to **clarify legal obligations** and provide practical advice to all stakeholders involved in the mobile application ecosystem.
 

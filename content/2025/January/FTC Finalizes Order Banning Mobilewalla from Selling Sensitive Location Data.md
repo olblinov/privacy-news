@@ -8,6 +8,7 @@ links:
   - https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-finalizes-order-banning-mobilewalla-selling-sensitive-location-data
   - https://www.ftc.gov/system/files/ftc_gov/pdf/2023196mobilewallacomplaint.pdf
   - https://www.ftc.gov/system/files/ftc_gov/pdf/Mobilewalla-D%26O.pdf
+date: 2025-01-14
 ---
 # Summary
 

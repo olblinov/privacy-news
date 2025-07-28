@@ -4,6 +4,7 @@ tags:
   - minimization
 links:
   - https://www.aepd.es/documento/ps-00028-2024.pdf
+date: 2024-11-19
 ---
 
 

@@ -6,6 +6,8 @@ tags:
   - personal_data
 links:
   - https://www.edpb.europa.eu/system/files/2025-01/edpb_guidelines_202501_pseudonymisation_en.pdf
+  - https://www.edpb.europa.eu/our-work-tools/documents/public-consultations/2025/guidelines-012025-pseudonymisation_en
+date: 2025-03-14
 ---
 # Introduction to Pseudonymisation
 
