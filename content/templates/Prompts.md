@@ -29,3 +29,7 @@ Prepare a summary of the source using the below template. Replace the {{}} synta
 {{fill-in}}
 
 ```
+
+```
+Please prepare a detailed summary of the source. Make use of headers (#,##,###) to structure the info ouput
+```
