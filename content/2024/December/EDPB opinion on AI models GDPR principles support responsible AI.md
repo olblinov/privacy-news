@@ -6,6 +6,7 @@ tags:
   - pbd
   - anonymization
   - legitimate_interest
+  - edpb
 links:
   - https://www.edpb.europa.eu/news/news/2024/edpb-opinion-ai-models-gdpr-principles-support-responsible-ai_en
   - https://www.edpb.europa.eu/system/files/2024-12/edpb_opinion_202428_ai-models_en.pdf
@@ -29,14 +30,21 @@ Finally, when an AI model was developed with **unlawfully processed personal da
 
 # EDPB Opinions
 
-##  On the matter of anonymity:
+##  On the matter of anonymity
 
 1. AI models trained on personal data cannot, in all cases, be considered anonymous. Instead, the determination of whether an AI model is anonymous should be assessed, based on specific criteria, on a case-by-case basis.
 2. AI models are very likely to require such a thorough evaluation of the risks of identification (whenever a proposal does not meet one of the criteria -- possible to single out, link and infer information -- a thorough evaluation of the identification risks should be performed).
 3. for an AI model to be considered anonymous, using reasonable means, both (i) the likelihood of direct (including probabilistic) extraction of personal data regarding individuals whose personal data were used to train the model; as well as (ii) the likelihood of obtaining, intentionally or not, such personal data from queries, should be insignificant for any data subject. By default, SAs should consider that AI models are likely to require a thorough evaluation of the likelihood of identification to reach a conclusion on their possible anonymous nature. This likelihood should be assessed taking into account ‘all the means reasonably likely to be used’ by the controller or another person, and should also consider unintended (re)use or disclosure of the model.
-4. SAs should take into account the documentation whenever a claim of anonymity regarding a given AI model needsto be evaluated. The EDPB notes that, if a SA is not able to confirm, after assessing the claim of anonymity, including in light of the documentation, that effective measures were taken to anonymise the AI model, the SA would be in a position to consider that the controller has failed to meet its accountability obligations under Article 5(2) GDPR. Therefore, compliance with other GDPR provisions should also be considered.
+4. SAs should take into account the documentation whenever a claim of anonymity regarding a given AI model needs to be evaluated. The EDPB notes that, if a SA is not able to confirm, after assessing the claim of anonymity, including in light of the documentation, that effective measures were taken to anonymise the AI model, the SA would be in a position to consider that the controller has failed to meet its accountability obligations under Article 5(2) GDPR. Therefore, compliance with other GDPR provisions should also be considered.
 
 ## On the matter of legitimate interest
+
+### On legitimate interests
+
+The following examples may constitute a legitimate interest in the context of AI models: 
+1. developing the service of a conversational agent to assist users; 
+2. developing an AI system to detect fraudulent content or behaviour; and 
+3. improving threat detection in an information system.
 
 ### Balancing test
 
@@ -58,7 +66,7 @@ When data subjects' interests and rights might override a legitimate interest, c
 
 Here is a non-exhaustive list of examples:
 
-**Technical Measures (General, potentially stemming from AI model design/testing):**
+#### **Specific Mitigating Measures in the Development Phase**
 
 - **Measures from AI model design and analysis** (e.g., from Section 3.2.2 of the Opinion) that aim to mitigate risks without resulting in full anonymisation or being legally required for other GDPR obligations. These include:
     - **Selection of Sources:** Steps to avoid or limit the collection of personal data, evaluating selection criteria, relevance, and adequacy of sources, and excluding inappropriate sources.
@@ -82,7 +90,7 @@ Here is a non-exhaustive list of examples:
 - **Releasing public and easily accessible communications** that go beyond the information required under Article 13 or 14 GDPR, providing additional details about collection criteria and all datasets used, with special consideration for children and vulnerable persons.
 - **Alternative forms of informing data subjects,** such as media campaigns, email information campaigns, graphic visualisations, Frequently Asked Questions (FAQs), transparency labels, model cards, and voluntary annual transparency reports.
 
-**Specific Mitigating Measures in the Context of Web Scraping:**
+####  **Specific Mitigating Measures in the Context of Web Scraping**
 
 - **Technical Measures:**
     - **Excluding data content** from publications that might include personal data posing risks to particular persons or groups (e.g., individuals subject to abuse, prejudice, or harm).
@@ -92,7 +100,7 @@ Here is a non-exhaustive list of examples:
 - **Facilitating Rights and Transparency:**
     - **Creating an opt-out list** managed by the controller, allowing data subjects to object to data collection on certain websites/online platforms before data collection occurs.
 
-**Specific Mitigating Measures in the Deployment Phase:**
+#### **Specific Mitigating Measures in the Deployment Phase**
 
 - **Technical Measures:**
     - Implementing measures to **prevent the storage, regurgitation, or generation of personal data**, especially in generative AI models (e.g., output filters).
@@ -104,5 +112,15 @@ Here is a non-exhaustive list of examples:
     - **Involving the Data Protection Officer (DPO)**, where applicable, in the legitimate interest assessment.
 
 ## On the matter of legality of model if earlier phases were unlawful
+### Scenario 1: Scenario 1: Unlawful Processing by Same Controller, Data Retained in Model
 
-When the controllers subsequently process personal data collected during the deployment phase, after the model has been anonymised, the GDPR would apply in relation to these processing activities. In these cases, as regards the GDPR, the lawfulness of the processing carried out in the deployment phase should not be impacted by the unlawfulness of the initial processing.
+- **Scenario:** An AI model is developed by a controller using unlawfully processed personal data, the model **retains identifiable personal data**, and the **same controller** deploys it.
+- **Takeaway:** Corrective measures on the initial unlawful processing (e.g., data deletion) **directly impact subsequent processing**. The unlawfulness of development **may impact the lawfulness of subsequent processing**, especially if it relies on legitimate interest, by influencing the assessment of risks to data subjects or their expectations.
+### **Scenario 2: Unlawful Processing by One Controller, Data Retained in Model, Processed by Another Controller**
+    
+- **Scenario:** An AI model is developed by one controller with unlawfully processed personal data, the model **retains identifiable personal data**, and it is then deployed and processed by **another controller**.
+- **Takeaway:** The deploying controller has an **accountability obligation** to conduct an appropriate assessment to ensure the model was not developed unlawfully. This assessment should consider the data source and any prior infringement findings by SAs or courts. Unlawfulness in development should be factored into the deploying controller's legitimate interest assessment.
+### **Scenario 3: Unlawful Processing, but Model is Anonymised Before Deployment**
+    
+- **Scenario:** A controller unlawfully processes personal data to develop an AI model, but then **ensures the model is anonymised** before deployment by the same or another controller, and new personal data is processed during deployment.
+- **Takeaway:** If the model is **demonstrably anonymous**, the GDPR **does not apply to its subsequent operation**, and the initial unlawfulness should not impact it. However, SAs must rigorously assess the claim of anonymity based on specific criteria. Lawfulness of processing _new_ personal data collected _during deployment_ of an anonymised model is **not impacted** by the initial unlawful development.
