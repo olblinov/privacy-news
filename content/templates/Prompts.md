@@ -31,5 +31,5 @@ Prepare a summary of the source using the below template. Replace the {{}} synta
 ```
 
 ```
-Please prepare a detailed summary of the source. Make use of headers (#,##,###) to structure the info ouput
+Please prepare a detailed summary of the source. Make use of headers (#,##,###) to structure the info ouput. Important: do not give the h1 header level to the title of the summary. Instead, use the h1 header to denote the first level of sub-items (i.e. there should be more than 1 headers of h1 level). The title can be just plaintext at the beginning
 ```

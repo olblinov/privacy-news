@@ -1,6 +1,30 @@
 ---
 title: Privacy News Central
 ---
+# February 2025
+
+[Folder](2025/February/)
+
+- 🤖📚 AI Pact organisations disclose AI literacy practices
+- 🇧🇷👁️ Brazil's ANPD Maintains Suspension of Payments by Tools For Humanity for Iris Data Collection
+- 🇩🇪📱 Bundeskartellamt has concerns about the current form of Apple’s App Tracking Transparency Framework
+- 🇪🇺🛒 CJEU AG Opinion on Online Marketplace Liability for Personal Data under E-Commerce Directive and GDPR
+- 🇪🇺🎭 CJEU AG's opinion on pseudonymous and anonymous data
+- 🇪🇺📂 CJEU on Data Subject Access to Automated Credit Scoring Logic and Trade Secrets Protection
+- 🇪🇺➗ CJEU on GDPR Fines Turnover Calculation
+- 🇫🇷🔔 CNIL Issues Legal Reminder to Qwant Over Personal Data Classification
+- 🇫🇷📅 CNIL's Actions in 2024 Overview of Sanctions and Corrective Measures
+- 🇫🇷🏘️ France Real Estate Firm Fined 40,000 Euros for Excessive Employee Surveillance and Data Privacy Violations
+- 🇮🇸📋 Iceland Primary Health Care of the Capital Area fined 5 Million ISK for Unlawful Medical Record Integration
+- 🇮🇱🛡️ Israel's DPA published guide on PETs
+- 🇮🇹📞 Italy EON Energia Fined for Data Protection Violations and Illegitimate Telemarketing €892,738
+- 🇱🇻📜 Latvian DVI's Observations on Privacy Policy Deficiencies
+- 🇱🇮📖 Lichtenstein publishes a GDPR case study
+- 🇪🇸📄 Spain Linea Directa Fined €300,000 for Unlawful Data Processing and Deficient Processor Contract
+- 🇪🇸🔒 Spanish DPA Fines Generali España €4 Million for Security, PbD and DPIA Breaches
+- 🇸🇪📘 Swedish Guidance on DPIA
+- 🇪🇺🚫 The AI Act Prohibited Systems and Data Protection Impacts
+
 # January 2025
 
 [Folder](2025/January/)

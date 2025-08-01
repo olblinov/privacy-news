@@ -12,6 +12,8 @@ links:
   - https://www.edpb.europa.eu/system/files/2024-12/edpb_opinion_202428_ai-models_en.pdf
 date: 2024-12-18
 ---
+# Summary 
+
 The European Data Protection Board (EDPB) has adopted an [opinion* on the use of personal data for the development and deployment of AI models](https://www.edpb.europa.eu/our-work-tools/our-documents/opinion-board-art-64/opinion-282024-certain-data-protection-aspects_en). This opinion looks at 1) when and how AI models can be considered anonymous, 2) whether and how legitimate interest can be used as a legal basis for developing or using AI models, and 3) what happens if an AI model is developed using personal data that was processed unlawfully. It also considers the use of first and third party data.  
   
 The opinion was requested by the Irish Data Protection Authority (DPA) with a view to seeking Europe-wide regulatory harmonisation. To gather input for this opinion, which deals with fast-moving technologies that have an important impact on society, the EDPB organised a stakeholders’ event and had an exchange with the EU AI Office.
