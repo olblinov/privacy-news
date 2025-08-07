@@ -1,5 +1,5 @@
 ---
-title: Spanish DPA Fines Generali España €4 Million for Data Protection Breaches
+title: Spanish DPA Fines Generali España €4 Million for Security, PbD and DPIA Breaches
 tags:
   - security
   - dpia

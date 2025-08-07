@@ -4,6 +4,7 @@ tags:
   - rights
   - transparency
   - retention
+  - access
 links:
   - https://www.aepd.es/documento/ps-00154-2024.pdf
 date: 2024-12-31

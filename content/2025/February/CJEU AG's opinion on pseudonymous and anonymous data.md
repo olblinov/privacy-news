@@ -4,6 +4,7 @@ tags:
   - anonymization
   - cjeu
   - personal_data
+  - access
 links:
   - https://curia.europa.eu/juris/document/document.jsf?text=&docid=295078&pageIndex=0&doclang=EN
 date: 2025-02-06

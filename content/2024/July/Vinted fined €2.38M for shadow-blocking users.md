@@ -4,6 +4,7 @@ tags:
   - rights
   - fine
   - change
+  - deletion
 links:
   - https://vdai.lrv.lt/en/news/a-company-operating-an-online-second-hand-clothing-trading-and-exchange-platform-is-fined-under-the-general-data-protection-regulation/
 date: 2024-07-31

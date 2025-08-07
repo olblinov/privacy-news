@@ -6,6 +6,7 @@ tags:
   - automated_decisions
   - rights
   - change
+  - access
 links:
   - https://curia.europa.eu/juris/document/document.jsf?text=&docid=290022&pageIndex=0&doclang=EN&mode=req&dir=&occ=first&part=1&cid=2084344
 date: 2024-09-30

@@ -3,6 +3,7 @@ title: EDPB case digest on right of access
 tags:
   - edpb
   - rights
+  - access
 links:
   - https://www.edpb.europa.eu/system/files/2025-01/oss-case-digest-right-of-access_en.pdf
   - https://www.edpb.europa.eu/system/files/2022-12/dk_2022-05_decisionpublic.pdf

@@ -4,7 +4,7 @@ Prepare a summary of the source using the below template. Replace the {{}} synta
 
   
 
-{{Provide your own short and naturally sounding title mentioning (1) country; (2) recipient of santion (if any); (3) substance of legal matter; and (4) amount of fine (if any). DO NOT USE THE COLON CHAR IN THE TITLE. Example: Meta Fined €251 Million for Data Breach in Ireland}}
+{{Provide your own short and naturally sounding title mentioning (1) country; (2) recipient of santion (if any); (3) substance of legal matter. Avoid just saying "GDPR violations" or "data violations" or similar abstract phrases. THis is a privacy blog, so i expect more specificity; and (4) amount of fine (if any). DO NOT USE THE COLON CHAR IN THE TITLE. Example: Meta Fined €251 Million for Data Breach in Ireland}}
 
   
 

@@ -5,6 +5,7 @@ tags:
   - rights
   - automated_decisions
   - profiling
+  - access
 links:
   - https://curia.europa.eu/juris/document/document.jsf?text=&docid=295841&pageIndex=0&doclang=EN&mode=lst&dir=&occ=first&part=1&cid=15443917
 date: 2025-02-27
