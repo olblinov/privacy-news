@@ -1,6 +1,29 @@
 ---
 title: Privacy News Central
 ---
+# April 2025
+
+[Folder](2025/April/)
+
+- 🇪🇺✉️ CJEU AG's Opinion on Inteligo Media Direct Marketing
+- 🇪🇺⚧️ CJEU Decision re Hungary Asylum Authority Over Gender Identity Data Rectification Requirements
+- 🇺🇸🚗 California's Privacy Agency Fines Honda $632,500 for Consumer Privacy Violations
+- 🇪🇺🔒 EDPB Guidelines 01-2025 on Pseudonymisation
+- 🇫🇷📱 France Sanctions Apple €150 Million for Anti-Competitive App Tracking Transparency Practices
+- 🇬🇷🏦 Greece's DPA Fines National Bank of Greece €220,000 for Access Right Violations and Inadequate Procedures
+- 🇪🇺📢 IAB Europe's Response to EDPB Guidelines on Pseudonymisation
+- 🇬🇧📝 IAB UK Response to ICO Consultation on Draft ‘Guidance on the Use of Storage and Access Technologies’
+- 🇬🇧🔒 ICO Guidance on Anonymisation and Pseudonymisation
+- 🇮🇹💳 Italian DPA Fines Credit Rehabilitation Company €70,000 for Data Management Practices
+- 🇱🇻📐 Latvian DPA's Methodology for DPIAs
+- 🇱🇻📋 Latvian DVI's Report on Preventive Check of Data Protection Requirements in Privacy Policies
+- 🇱🇺💶 Luxembourg Amazon Europe Core S.A.R.L. Fined €746 Million for Interest-Based Advertising Data Processing Violations
+- 🇺🇸📘 NIST Publishes Guidance for Evaluating Differential Privacy Techniques
+- 🇺🇸🤖 NIST Trustworthy and Responsible AI - Adversarial Machine Learning
+- 🇵🇱📬 Polish Postal Service and Ministry of Digital Affairs Fined for Unlawful Use of Citizens' PESEL Data 27 Million PLN
+- 🇪🇸⚽ Spain's LaLiga Fined €1 Million for Failing to Conduct DPIA on Biometric Stadium Access
+- 🇮🇹📶 Wind Tre fined €347,520 for Consent and Data Security Violations
+
 # March 2025
 
 [Folder](2025/March/)
