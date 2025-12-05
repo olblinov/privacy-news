@@ -1,0 +1,40 @@
+---
+title: Netherlands Supreme Court Ruling on Access to Sealed Family and Youth Court Records
+tags:
+  - access
+links:
+  - https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:HR:2025:723
+date: 2025-05-09
+---
+# Summary
+
+The Supreme Court of the Netherlands, in a preliminary ruling, addressed the complex issue of whether and how former minors can access sealed documents from closed civil family and youth court procedures, particularly those related to child protection measures. The Court determined that no direct statutory basis exists in the Dutch Code of Civil Procedure for general access to these records after a case is concluded. While the General Data Protection Regulation (AVG/GDPR) grants individuals the right to access their personal data processed by the courts, it does not automatically provide a right to a full dossier unless necessary to ensure the accuracy, completeness, and intelligibility of that data. Crucially, the Court acknowledged that Article 8 of the European Convention on Human Rights (EVRM/ECHR) imposes a positive obligation on the State to provide an effective procedure for individuals to obtain information essential for their identity development regarding their childhood and early development, but identified a "legal deficit" in current Dutch law, concluding that a comprehensive solution for this issue must come from the legislator rather than the judiciary.
+
+# Details
+
+## Background
+
+The preliminary ruling originates from a request by an individual, born in 2003, whose parents were stripped of their parental authority in 2009. Now an adult, the individual lives with foster parents, has changed their surname and first names, and has no contact with their mother, while their father is unwilling to discuss past events. The individual, who has several siblings, sought "all dossiers from the past" from the certified youth protection institution Jeugdbescherming Rotterdam Rijnmond, which directed them to the court. The individual emphasized their need for these dossiers to understand and process their past trauma and to find "peace and clarity" for their mental well-being and identity development.
+
+The Rotterdam District Court, facing frequent requests for access to sealed civil family and youth court records, particularly from adults seeking information about their childhood for trauma processing, identity development, or potential claims for damages, referred several preliminary questions to the Supreme Court. The core problem was the lack of a clear legal basis and inconsistent practices among courts for handling such requests. The Supreme Court's decision specifically focused on cases involving former minors and child protection measures, assuming the dossiers are still within court archives.
+
+## Legal Analysis
+
+The Supreme Court examined several potential legal bases for granting access to sealed court records:
+
+- **Articles 290 Rv and 811 Rv (Dutch Code of Civil Procedure):** The Court clarified that **Article 290 Rv**, which allows parties and interested parties access to documents, applies only to **ongoing petition procedures**, not to closed ones. This is based on its placement in the law and its legislative history, which aimed to ensure parties could review documents before a judge's decision. **Article 811 Rv**, a specific elaboration of Article 290 Rv for matters concerning minors, also applies solely to **ongoing procedures**.
+- **Article 29 Rv (Dutch Code of Civil Procedure):** This article primarily governs the provision of copies of **judgments, decrees, and orders** to anyone who requests them, within certain limits. It **does not provide a basis for providing other documents** from sealed dossiers to third parties. Parties who appeared in the procedure receive copies of the final decision under other articles (e.g., Art. 290 lid 3 Rv).
+- **Articles 194 e.v. Rv (formerly 843a Rv):** These articles also **do not provide a basis for general access** to other documents from a sealed dossier to third parties, given that Article 29 Rv specifically limits access to judgments and decrees.
+- **Wet open overheid (Woo - Dutch Government Information Act):** The Woo is **not applicable to the courts**.
+- **Algemene Verordening Gegevensbescherming (AVG/GDPR - Article 15):** The AVG applies to the processing of personal data by courts (except in criminal cases), with court administrations acting as data controllers. Article 15 AVG grants individuals the right to obtain confirmation about the processing of their personal data and to **access that personal data**. This right includes obtaining a "copy" of the processed personal data. The European Court of Justice (HvJEU) jurisprudence indicates that while Article 15 AVG does not grant a general right to a copy of an entire document or dossier, it _does_ require such a copy if it is **"indispensable" or "necessary"** for the individual to verify the accuracy, completeness, and intelligibility of their processed personal data and to effectively exercise their rights under the AVG. This necessitates a **case-by-case assessment** by the court administration. #access #change 
+- **Article 8 Europees Verdrag voor de Rechten van de Mens (EVRM/ECHR):** The European Court of Human Rights (EHRM) jurisprudence establishes that a person who grew up in foster care has a **"vital interest"** (a fundamental right protected by Art. 8 EVRM as part of the right to private life) to obtain information from public authorities necessary to understand their childhood and early development, crucial for identity formation. This imposes a **positive obligation on the State** to provide an effective and accessible procedure for access to all relevant and appropriate information. While the Youth Act (Jeugdwet, Art. 7.3.10) provides a procedure for accessing records held by certified institutions, it is **not guaranteed to contain all relevant information**, especially information held by the Council for Child Protection or within court files. The Court noted that if an individual cannot obtain all relevant information through existing procedures, this **could constitute a violation of the State's positive obligation under Article 8 EVRM**. However, providing a general solution for this "legal deficit" goes beyond the law-making task of the judiciary and is a matter for the **legislator**, as it involves choices regarding which authorities are best suited to provide access and whether guidance should be offered.
+
+## Decision
+
+The Hoge Raad provided the following answers to the preliminary questions:
+
+- **Questions A and B:** The Court ruled that there is **no statutory basis** (not even by analogy) for courts to provide access to or copies of documents (other than judgments, decrees, and orders under Art. 29 Rv) from a sealed civil procedure dossier. Access to personal data is possible within the framework of Article 15 AVG.
+- **Question H:** The Court affirmed that **Article 8 EVRM** imposes a **positive obligation on the State** to ensure an effective and accessible procedure for individuals to access relevant information about past child protection measures for understanding their childhood and early development. While the Youth Act provides a procedure, it is **not guaranteed to be comprehensive**, and therefore a **possible legal deficit exists**. However, addressing this broader systemic issue, including determining which authorities should grant access and how, falls within the **domain of the legislator**, not the judiciary.
+- **Questions C through G:** Given the answers to A, B, and H, these questions **do not require further answers**.
+
+The Supreme Court thus clarified the existing legal landscape, highlighting the limitations of current procedural law for accessing sealed court records and pointing to the need for legislative action to fully comply with the State's obligations under the European Convention on Human Rights.

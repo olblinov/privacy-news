@@ -1,6 +1,27 @@
 ---
 title: Privacy News Central
 ---
+# May 2025
+
+[Folder](2025/May/)
+
+- 🤖 Berlin DPA Reviews AI Systems for Data Protection Compliance
+- 📝 Brazilian DPA Opens Public Consultation on AI and Automated Decisions
+- 🔐 CNIL Highlights Security Measures for Large Databases and Cyber Defence
+- 📱 CNIL Issues New Recommendations to Improve Mobile App Privacy
+- 🧾 CPPA Fines Todd Snyder and Orders Major Privacy Practice Overhaul
+- ⚖️ Canal+ Consent Case Referred to CJEU Over Prospecting Practices
+- 🗑️ EDPB Launches Coordinated Enforcement Initiative on the Right to Erasure
+- 🇪🇺 EU Commission Proposes Targeted Simplifications to the GDPR
+- 🛒 Estonian DPA Releases Data Security Guidelines for E-commerce
+- 📣 CNIL Fines Solocal €900,000 for Unlawful Prospecting and Data Transfers
+- 📊 Berlin DPA Annual Report 2024 Highlights AI and Digitalization Enforcement Trends
+- 💼 German Employer Fined €200 for Unauthorized Workday Employee Data Transfer
+- 🎥 Ireland Fines TikTok €530M for Unlawful China Transfers and Transparency Failures
+- 🤖 Italy Fines Replika €5M for Privacy Breaches and Inadequate Age Verification
+- ☎️ Latvian DPA Issues Guidance on Recording Client Phone Calls
+- 🏛️ Dutch Supreme Court Clarifies Access Rights to Sealed Family and Youth Court Records
+
 # April 2025
 
 [Folder](2025/April/)
